@@ -1,0 +1,2 @@
+rootProject.name = "My gallaey App"
+include ':app'
